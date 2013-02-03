@@ -1,0 +1,6 @@
+# include<stdio>
+Int main() {
+
+Cout<<"Test OutPut";
+Return();
+}
